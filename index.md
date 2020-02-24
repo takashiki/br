@@ -1,0 +1,27 @@
+# 如何下载国外资源
+
+很多国外的 mugen 人物和作者页都比较麻烦，诸如 fc2、skydrive、onedrive，部分网盘中转站的下载方式请看[这里](https://qxmugen.com/portal/8)，下面是本站推荐的一些免费/付费，不定期更新（**建议不要一次性购买太长时间，再稳定的服务也可能有关停的风险**）：
+
+## MiaoSS
+
+地址：[http://miaoaff.com/reg.php?id=9770](http://miaoaff.com/reg.php?id=9770)
+
+目前免费300M流量，每天签到可领流量。可购买付费服务，也比较便宜。该服务也是目前我自己日常使用的。
+
+## 小白加速
+
+地址：[https://xbkr.xyz/#/signup?c=58065](https://xbkr.xyz/#/signup?c=58065)
+
+有常见的各个客户端，和名字一样使用比较方便，适合小白用户。注册后有 5 天 1.2G 的免费试用额度。
+
+## SocketPro
+
+地址：[https://www.socketpro.link/aff/15068](https://www.socketpro.link/aff/15068)
+
+使用还算方便，支持 Windows、安卓、iOS、Mac 等系统，服务器线路也比较丰富。
+
+## GreenSS
+
+地址：[https://cp.greennode.info/users/aff.php?aff=1616](https://cp.greennode.info/users/aff.php?aff=1616)
+
+出售 SS 账号的国外站，虽然首页是英文，不过随便点个按钮就 会跳转到中文页面。

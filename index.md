@@ -4,24 +4,24 @@
 
 ## MiaoSS
 
-地址：[http://miaoaff.com/reg.php?id=9770](http://miaoaff.com/reg.php?id=9770)
+地址：<a href="http://miaoaff.com/reg.php?id=9770" target="__blank">http://miaoaff.com/reg.php?id=9770</a>
 
 目前免费300M流量，每天签到可领流量。可购买付费服务，也比较便宜。该服务也是目前我自己日常使用的。
 
 ## 小白加速
 
-地址：[https://xbkr.xyz/#/signup?c=58065](https://xbkr.xyz/#/signup?c=58065)
+地址：<a href="https://xbkr.xyz/#/signup?c=58065" target="__blank">https://xbkr.xyz/#/signup?c=58065</a>
 
 有常见的各个客户端，和名字一样使用比较方便，适合小白用户。注册后有 5 天 1.2G 的免费试用额度。
 
 ## SocketPro
 
-地址：[https://www.socketpro.link/aff/15068](https://www.socketpro.link/aff/15068)
+地址：<a href="https://www.socketpro.link/aff/15068" target="__blank">https://www.socketpro.link/aff/15068</a>
 
 使用还算方便，支持 Windows、安卓、iOS、Mac 等系统，服务器线路也比较丰富。
 
 ## GreenSS
 
-地址：[https://cp.greennode.info/users/aff.php?aff=1616](https://cp.greennode.info/users/aff.php?aff=1616)
+地址：<a href="https://cp.greennode.info/users/aff.php?aff=1616" target="__blank">https://cp.greennode.info/users/aff.php?aff=1616</a>
 
 出售 SS 账号的国外站，虽然首页是英文，不过随便点个按钮就 会跳转到中文页面。

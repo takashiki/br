@@ -8,6 +8,12 @@
 
 目前免费300M流量，每天签到可领流量。可购买付费服务，也比较便宜。该服务也是目前我自己日常使用的。
 
+## 墙裂
+
+地址：<a href="http://t.smxhx.com/aff.php?aff=3373" target="__blank">http://t.smxhx.com/aff.php?aff=3373</a>
+
+现在做的比较不错的一个提供商，主要是价格很便宜线路也不少，记得保存网站地址。
+
 ## 小白加速
 
 地址：<a href="https://xbkr.xyz/#/signup?c=58065" target="__blank">https://xbkr.xyz/#/signup?c=58065</a>

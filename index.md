@@ -10,7 +10,7 @@
 
 ## 墙裂
 
-地址：<a href="http://t.smxhx.com/aff.php?aff=3373" target="__blank">http://t.smxhx.com/aff.php?aff=3373</a>
+地址：<a href="https://go.qianglie.cc/aff.php?aff=3373" target="__blank">https://go.qianglie.cc/aff.php?aff=3373</a>
 
 现在做的比较不错的一个提供商，主要是价格很便宜线路也不少，记得保存网站地址。
 

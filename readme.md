@@ -8,6 +8,12 @@
 
 目前免费300M流量，每天签到可领流量。可购买付费服务，也比较便宜。该服务也是目前我自己日常使用的。
 
+## 小白加速
+
+地址：<a href="https://xbmm.xyz/#/signup?c=58065" target="__blank">https://xbmm.xyz/#/signup?c=58065</a>
+
+有常见的各个客户端，和名字一样使用比较方便，适合小白用户。注册后有 5 天 1.2G 的免费试用额度。
+
 ## 墙裂
 
 地址：<a href="https://go.qianglie.cc/aff.php?aff=3373" target="__blank">https://go.qianglie.cc/aff.php?aff=3373</a>

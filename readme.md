@@ -1,12 +1,12 @@
 # 如何下载国外资源
 
-很多国外的 mugen 人物和作者页都比较麻烦，诸如 fc2、skydrive、onedrive，部分网盘中转站的下载方式请看[这里](https://qxmugen.com/portal/8)，下面是本站推荐的一些免费/付费，不定期更新（**建议不要一次性购买太长时间，再稳定的服务也可能有关停的风险**）：
+很多国外的 mugen 人物和作者页链接都受到了网络限制，访问比较麻烦，诸如 fc2、skydrive、onedrive 等。部分网盘可以通过中转站进行下载，具体请看[这里](https://qxmugen.com/portal/8)。其他就需要通过一些工具软件来访问了，下面是本站推荐的一些免费/付费服务商，不定期更新（**建议不要一次性购买太长时间，再稳定的服务也可能有关停的风险**）：
 
 ## MiaoSS
 
 地址：<a href="http://miaoaff.com/reg.php?id=9770" target="__blank">http://miaoaff.com/reg.php?id=9770</a>
 
-目前免费300M流量，每天签到可领流量。可购买付费服务，也比较便宜。该服务也是目前我自己日常使用的。
+比较老牌的一家服务商了，已经稳定运行了四五年时间。目前免费300M流量，每天签到可领少量流量。可购买付费服务，也比较便宜。地址经常改动，记得注册后按提示保存好链接。该服务也是目前我自己日常使用的。
 
 ## 小白加速
 
@@ -18,7 +18,7 @@
 
 地址：<a href="https://go.qianglie.cc/aff.php?aff=3373" target="__blank">https://go.qianglie.cc/aff.php?aff=3373</a>
 
-现在做的比较不错的一个提供商，主要是价格很便宜线路也不少，记得保存网站地址，如果可以翻墙的情况下可以直接访问永久地址 <a href="https://xn--noss43i.com/" target="__blank">https://墙裂.com/</a>
+现在做的比较不错的一个提供商，主要是价格很便宜线路也不少，记得保存网站地址。在可以访问国外网站的情况下可以直接访问永久地址 <a href="https://xn--noss43i.com/" target="__blank">https://墙裂.com/</a>
 
 ## SocketPro
 

@@ -25,9 +25,3 @@
 地址：<a href="https://cp.greennode.info/users/aff.php?aff=1616" target="__blank">https://cp.greennode.info/users/aff.php?aff=1616</a>
 
 出售 SS 账号的国外站，虽然首页是英文，不过随便点个按钮就 会跳转到中文页面。
-
-## 小白加速
-
-地址：<a href="https://xbmm.xyz/#/signup?c=58065" target="__blank">https://xbmm.xyz/#/signup?c=58065</a>
-
-有常见的各个客户端，和名字一样使用比较方便，适合小白用户。注册后有 5 天 1.2G 的免费试用额度。但不太好的地方就在于完全找不到客服，遇到问题没人处理。

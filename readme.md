@@ -19,3 +19,9 @@
 地址：<a href="https://cp.greennode.info/users/aff.php?aff=1616" target="__blank">https://cp.greennode.info/users/aff.php?aff=1616</a>
 
 出售 SS 账号的国外站，虽然首页是英文，不过随便点个按钮就 会跳转到中文页面。
+
+## 西游
+
+地址：<a href="https://xiyou4you.us/r/?s=15157115" target="__blank">https://xiyou4you.us/r/?s=15157115</a>
+
+也是比较老牌的一个服务商了，必须要付费，价格中等，貌似挺多人在用的。

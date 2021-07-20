@@ -4,7 +4,7 @@
 
 ## ByWave
 
-地址：<a href="https://bywave.io/aff.php?aff=9374" target="__blank">https://bywave.io/aff.php?aff=9374</a>
+地址：<a href="https://bywave.art/aff.php?aff=9374" target="__blank">https://bywave.art/aff.php?aff=9374</a>
 
 最近新开始用的一家服务商，也是比较老牌的，路线非常丰富，而且支持的协议种类也很多，大部分都是香港、日本、新加坡等亚洲节点，速度相当快，支持看国外的各种流媒体网站。
 购买可以选择限定流量或者包月，轻度使用按流量买也挺划算。

@@ -16,18 +16,6 @@
 
 比较老牌的一家服务商了，已经稳定运行了四五年时间。目前免费300M流量，每天签到可领少量流量。可购买付费服务，也比较便宜。地址经常改动，记得注册后按提示保存好链接。该服务也是目前我自己日常使用的。
 
-## SocketPro
-
-地址：<a href="https://www.socketpro.link/aff/15068" target="__blank">https://www.socketpro.link/aff/15068</a>
-
-使用还算方便，支持 Windows、安卓、iOS、Mac 等系统，服务器线路也比较丰富。
-
-## GreenSS
-
-地址：<a href="https://cp.greennode.info/users/aff.php?aff=1616" target="__blank">https://cp.greennode.info/users/aff.php?aff=1616</a>
-
-出售 SS 账号的国外站，虽然首页是英文，不过随便点个按钮就 会跳转到中文页面。
-
 ## 西游
 
 地址：<a href="https://xiyou4you.us/r/?s=15157115" target="__blank">https://xiyou4you.us/r/?s=15157115</a>

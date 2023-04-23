@@ -4,7 +4,7 @@
 
 ## 速鹰666
 
-地址：<a href="https://suying2022.org/auth/register?code=Ewvv" target="_blank">https://suying2022.org/auth/register?code=Ewvv</a>
+地址：<a href="https://suying300.com/auth/register?code=Ewvv" target="_blank">https://suying300.com/auth/register?code=Ewvv</a>
 
 最近新发现的一家服务商，线路更加丰富，而且经过中转速度也更快，个人使用下来感觉晚高峰会比 ByWave 体验好一些，目前我作为主力服务商使用。
 最低配版本 15.9 一个月，算是目前性价比比较高的服务商了。

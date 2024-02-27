@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-    <html>
-    <head>
-        <meta charset="UTF-8">
-        <title>&#x5982;&#x4f55;&#x4e0b;&#x8f7d;&#x56fd;&#x5916;&#x8d44;&#x6e90;</title>
-        <style>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>&#x5982;&#x4f55;&#x4e0b;&#x8f7d;&#x56fd;&#x5916;&#x8d44;&#x6e90;</title>
+            <style>
 /* From extension vscode.github */
 /*---------------------------------------------------------------------------------------------
  *  Copyright (c) Microsoft Corporation. All rights reserved.
@@ -16,7 +16,7 @@
 }
 
 </style>
-
+            
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
 <style>
@@ -37,10 +37,106 @@
     pointer-events: none;
 }
 </style>
+<style>
+:root {
+  --color-note: #0969da;
+  --color-tip: #1a7f37;
+  --color-warning: #9a6700;
+  --color-severe: #bc4c00;
+  --color-caution: #d1242f;
+  --color-important: #8250df;
+}
 
-    </head>
-    <body class="vscode-body vscode-light">
-        <h1 id="如何下载国外资源">如何下载国外资源</h1>
+</style>
+<style>
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-note: #2f81f7;
+    --color-tip: #3fb950;
+    --color-warning: #d29922;
+    --color-severe: #db6d28;
+    --color-caution: #f85149;
+    --color-important: #a371f7;
+  }
+}
+
+</style>
+<style>
+.markdown-alert {
+  padding: 0.5rem 1rem;
+  margin-bottom: 16px;
+  color: inherit;
+  border-left: .25em solid #888;
+}
+
+.markdown-alert>:first-child {
+  margin-top: 0
+}
+
+.markdown-alert>:last-child {
+  margin-bottom: 0
+}
+
+.markdown-alert .markdown-alert-title {
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  line-height: 1
+}
+
+.markdown-alert .markdown-alert-title .octicon {
+  margin-right: 0.5rem;
+  display: inline-block;
+  overflow: visible !important;
+  vertical-align: text-bottom;
+  fill: currentColor;
+}
+
+.markdown-alert.markdown-alert-note {
+  border-left-color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-note .markdown-alert-title {
+  color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-important {
+  border-left-color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-important .markdown-alert-title {
+  color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-warning {
+  border-left-color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-warning .markdown-alert-title {
+  color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-tip {
+  border-left-color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-tip .markdown-alert-title {
+  color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-caution {
+  border-left-color: var(--color-caution);
+}
+
+.markdown-alert.markdown-alert-caution .markdown-alert-title {
+  color: var(--color-caution);
+}
+
+</style>
+        
+        </head>
+        <body class="vscode-body vscode-light">
+            <h1 id="如何下载国外资源">如何下载国外资源</h1>
 <p>很多国外的 mugen 人物和作者页链接都受到了网络限制，访问比较麻烦，诸如 fc2、skydrive、onedrive 等。部分网盘可以通过中转站进行下载，具体请看<a href="https://qxmugen.com/portal/8">这里</a>。其他就需要通过一些工具软件来访问了，下面是本站推荐的一些免费/付费服务商，不定期更新（<strong>建议不要一次性购买太长时间，再稳定的服务也可能有关停的风险</strong>）：</p>
 <h2 id="速鹰666">速鹰666</h2>
 <p>地址：<a href="https://sy77a12.com/auth/register?code=Ewvv" target="_blank">https://sy77a12.com/auth/register?code=Ewvv</a></p>
@@ -50,7 +146,7 @@
 <p>地址：<a href="http://miaoaff.com/reg.php?id=9770" target="__blank">http://miaoaff.com/reg.php?id=9770</a></p>
 <p>比较老牌的一家服务商了，已经稳定运行了近十年时间。目前免费300M流量，每天签到可领少量流量。可购买付费服务，也比较便宜。地址经常改动，记得注册后按提示保存好链接。</p>
 <h2 id="bywave">ByWave</h2>
-<p>地址：<a href="https://user.by.icu/aff.php?aff=9374" target="__blank">https://user.by.icu/aff.php?aff=9374</a></p>
+<p>地址：<a href="https://user.by.ltd/aff.php?aff=9374" target="__blank">https://user.by.ltd/aff.php?aff=9374</a></p>
 <p>用了四五年的一家服务商，付费线路相对比较丰富，而且支持的协议种类也很多，大部分都是香港、日本、新加坡等亚洲节点，速度相当快，支持看国外的各种流媒体网站。
 购买可以选择限定流量或者包月，轻度使用按流量买也挺划算。
 使用方面支持全平台，并且 Windows、安卓、Mac 上都有专用客户端，下载登录账号就能使用，十分方便，iOS 虽然没有专用客户端，但也有详细的使用教程，小白友好，总体还不错。</p>
@@ -60,7 +156,7 @@
 如果是看视频的话虽然按流量计费可能相对贵一些，但是能够免登录看 Netflix 视频，还挺方便的，但晚高峰可能速度一般。
 新注册有 3GB 的免费流量，可以试一试。</p>
 
-
-
-    </body>
-    </html>
+            
+            
+        </body>
+        </html>

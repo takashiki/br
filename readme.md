@@ -17,7 +17,7 @@
 
 ## ByWave
 
-地址：<a href="https://user.by.icu/aff.php?aff=9374" target="__blank">https://user.by.icu/aff.php?aff=9374</a>
+地址：<a href="https://user.by.ltd/aff.php?aff=9374" target="__blank">https://user.by.ltd/aff.php?aff=9374</a>
 
 用了四五年的一家服务商，付费线路相对比较丰富，而且支持的协议种类也很多，大部分都是香港、日本、新加坡等亚洲节点，速度相当快，支持看国外的各种流媒体网站。
 购买可以选择限定流量或者包月，轻度使用按流量买也挺划算。

@@ -4,7 +4,7 @@
 
 ## 速鹰666
 
-地址：<a href="https://sy77a12.com/auth/register?code=Ewvv" target="_blank">https://sy77a12.com/auth/register?code=Ewvv</a>
+地址：<a href="https://suying776.xyz/auth/register?code=Ewvv" target="_blank">https://suying776.xyz/auth/register?code=Ewvv</a>
 
 最近两年主要在用的一家服务商，线路更加丰富，大部分线路经过中转速度也蛮快的，整体使用下来比较稳定，性价比尚可。
 使用方面是用 Clash 或者 SSR、V2Ray 等通用客户端，有全平台的视频教程，也还算比较方便。

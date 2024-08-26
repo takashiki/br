@@ -25,7 +25,7 @@
 
 ## 雷霆
 
-地址：<a href="https://www.leiting.lol/invite/h1iyXC3f" target="__blank">https://www.leiting.lol/invite/h1iyXC3f</a>
+地址：<a href="https://leiting.uniss.me/invite/h1iyXC3f" target="__blank">https://leiting.uniss.me/invite/h1iyXC3f</a>
 
 最近新发现的一家服务商，国内访问还比较快，它的特点是不用按月付费，而是按使用流量付费，每 GB 流量 0.3 元，对于使用流量比较少的用户来说非常划算。
 如果是看视频的话虽然按流量计费可能相对贵一些，但是能够免登录看 Netflix 视频，还挺方便的，但晚高峰可能速度一般，稳定性不太好。

@@ -11,7 +11,7 @@
 
 ## MiaoSS
 
-地址：<a href="http://miaoaff.com/reg.php?id=9770" target="__blank">http://miaoaff.com/reg.php?id=9770</a>
+地址：<a href="http://d.miaosu.bid/reg.php?id=9770" target="__blank">http://d.miaosu.bid/reg.php?id=9770</a>
 
 比较老牌的一家服务商了，已经稳定运行了近十年时间。目前免费300M流量，每天签到可领少量流量。可购买付费服务，也比较便宜。地址经常改动，记得注册后按提示保存好链接。
 

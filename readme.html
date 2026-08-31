@@ -1,158 +1,178 @@
-<!DOCTYPE html>
-        <html>
-        <head>
-            <meta charset="UTF-8">
-            <title>&#x5982;&#x4f55;&#x4e0b;&#x8f7d;&#x56fd;&#x5916;&#x8d44;&#x6e90;</title>
-            <style>
-/* From extension vscode.github */
-/*---------------------------------------------------------------------------------------------
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>
+      &#x5982;&#x4f55;&#x4e0b;&#x8f7d;&#x56fd;&#x5916;&#x8d44;&#x6e90;
+    </title>
+    <style>
+      /* From extension vscode.github */
+      /*---------------------------------------------------------------------------------------------
  *  Copyright (c) Microsoft Corporation. All rights reserved.
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 
-.vscode-dark img[src$=\#gh-light-mode-only],
-.vscode-light img[src$=\#gh-dark-mode-only],
-.vscode-high-contrast:not(.vscode-high-contrast-light) img[src$=\#gh-light-mode-only],
-.vscode-high-contrast-light img[src$=\#gh-dark-mode-only] {
-	display: none;
-}
+      .vscode-dark img[src$="\#gh-light-mode-only"],
+      .vscode-light img[src$="\#gh-dark-mode-only"],
+      .vscode-high-contrast:not(.vscode-high-contrast-light)
+        img[src$="\#gh-light-mode-only"],
+      .vscode-high-contrast-light img[src$="\#gh-dark-mode-only"] {
+        display: none;
+      }
+    </style>
 
-</style>
-            
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
-<style>
-            body {
-                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
-                font-size: 14px;
-                line-height: 1.6;
-            }
-        </style>
-        <style>
-.task-list-item {
-    list-style-type: none;
-}
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css"
+    />
+    <style>
+      body {
+        font-family:
+          -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", system-ui,
+          "Ubuntu", "Droid Sans", sans-serif;
+        font-size: 14px;
+        line-height: 1.6;
+      }
+    </style>
+    <style>
+      .task-list-item {
+        list-style-type: none;
+      }
 
-.task-list-item-checkbox {
-    margin-left: -20px;
-    vertical-align: middle;
-    pointer-events: none;
-}
-</style>
-<style>
-:root {
-  --color-note: #0969da;
-  --color-tip: #1a7f37;
-  --color-warning: #9a6700;
-  --color-severe: #bc4c00;
-  --color-caution: #d1242f;
-  --color-important: #8250df;
-}
+      .task-list-item-checkbox {
+        margin-left: -20px;
+        vertical-align: middle;
+        pointer-events: none;
+      }
+    </style>
+    <style>
+      :root {
+        --color-note: #0969da;
+        --color-tip: #1a7f37;
+        --color-warning: #9a6700;
+        --color-severe: #bc4c00;
+        --color-caution: #d1242f;
+        --color-important: #8250df;
+      }
+    </style>
+    <style>
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --color-note: #2f81f7;
+          --color-tip: #3fb950;
+          --color-warning: #d29922;
+          --color-severe: #db6d28;
+          --color-caution: #f85149;
+          --color-important: #a371f7;
+        }
+      }
+    </style>
+    <style>
+      .markdown-alert {
+        padding: 0.5rem 1rem;
+        margin-bottom: 16px;
+        color: inherit;
+        border-left: 0.25em solid #888;
+      }
 
-</style>
-<style>
-@media (prefers-color-scheme: dark) {
-  :root {
-    --color-note: #2f81f7;
-    --color-tip: #3fb950;
-    --color-warning: #d29922;
-    --color-severe: #db6d28;
-    --color-caution: #f85149;
-    --color-important: #a371f7;
-  }
-}
+      .markdown-alert > :first-child {
+        margin-top: 0;
+      }
 
-</style>
-<style>
-.markdown-alert {
-  padding: 0.5rem 1rem;
-  margin-bottom: 16px;
-  color: inherit;
-  border-left: .25em solid #888;
-}
+      .markdown-alert > :last-child {
+        margin-bottom: 0;
+      }
 
-.markdown-alert>:first-child {
-  margin-top: 0
-}
+      .markdown-alert .markdown-alert-title {
+        display: flex;
+        font-weight: 500;
+        align-items: center;
+        line-height: 1;
+      }
 
-.markdown-alert>:last-child {
-  margin-bottom: 0
-}
+      .markdown-alert .markdown-alert-title .octicon {
+        margin-right: 0.5rem;
+        display: inline-block;
+        overflow: visible !important;
+        vertical-align: text-bottom;
+        fill: currentColor;
+      }
 
-.markdown-alert .markdown-alert-title {
-  display: flex;
-  font-weight: 500;
-  align-items: center;
-  line-height: 1
-}
+      .markdown-alert.markdown-alert-note {
+        border-left-color: var(--color-note);
+      }
 
-.markdown-alert .markdown-alert-title .octicon {
-  margin-right: 0.5rem;
-  display: inline-block;
-  overflow: visible !important;
-  vertical-align: text-bottom;
-  fill: currentColor;
-}
+      .markdown-alert.markdown-alert-note .markdown-alert-title {
+        color: var(--color-note);
+      }
 
-.markdown-alert.markdown-alert-note {
-  border-left-color: var(--color-note);
-}
+      .markdown-alert.markdown-alert-important {
+        border-left-color: var(--color-important);
+      }
 
-.markdown-alert.markdown-alert-note .markdown-alert-title {
-  color: var(--color-note);
-}
+      .markdown-alert.markdown-alert-important .markdown-alert-title {
+        color: var(--color-important);
+      }
 
-.markdown-alert.markdown-alert-important {
-  border-left-color: var(--color-important);
-}
+      .markdown-alert.markdown-alert-warning {
+        border-left-color: var(--color-warning);
+      }
 
-.markdown-alert.markdown-alert-important .markdown-alert-title {
-  color: var(--color-important);
-}
+      .markdown-alert.markdown-alert-warning .markdown-alert-title {
+        color: var(--color-warning);
+      }
 
-.markdown-alert.markdown-alert-warning {
-  border-left-color: var(--color-warning);
-}
+      .markdown-alert.markdown-alert-tip {
+        border-left-color: var(--color-tip);
+      }
 
-.markdown-alert.markdown-alert-warning .markdown-alert-title {
-  color: var(--color-warning);
-}
+      .markdown-alert.markdown-alert-tip .markdown-alert-title {
+        color: var(--color-tip);
+      }
 
-.markdown-alert.markdown-alert-tip {
-  border-left-color: var(--color-tip);
-}
+      .markdown-alert.markdown-alert-caution {
+        border-left-color: var(--color-caution);
+      }
 
-.markdown-alert.markdown-alert-tip .markdown-alert-title {
-  color: var(--color-tip);
-}
+      .markdown-alert.markdown-alert-caution .markdown-alert-title {
+        color: var(--color-caution);
+      }
+    </style>
+  </head>
+  <body class="vscode-body vscode-light">
+    <h1 id="如何下载国外资源">如何下载国外资源</h1>
+    <p>
+      很多国外的 mugen 人物和作者页链接都受到了网络限制，访问比较麻烦，诸如
+      fc2、skydrive、onedrive 等。部分网盘可以通过中转站进行下载，具体请看<a
+        href="https://qxmugen.com/portal/8"
+        >这里</a
+      >。其他就需要通过一些工具软件来访问了，下面是本站推荐的一些免费/付费服务商，不定期更新（<strong>建议不要一次性购买太长时间，再稳定的服务也可能有关停的风险</strong>）：
+    </p>
 
-.markdown-alert.markdown-alert-caution {
-  border-left-color: var(--color-caution);
-}
-
-.markdown-alert.markdown-alert-caution .markdown-alert-title {
-  color: var(--color-caution);
-}
-
-</style>
-        
-        </head>
-        <body class="vscode-body vscode-light">
-            <h1 id="如何下载国外资源">如何下载国外资源</h1>
-<p>很多国外的 mugen 人物和作者页链接都受到了网络限制，访问比较麻烦，诸如 fc2、skydrive、onedrive 等。部分网盘可以通过中转站进行下载，具体请看<a href="https://qxmugen.com/portal/8">这里</a>。其他就需要通过一些工具软件来访问了，下面是本站推荐的一些免费/付费服务商，不定期更新（<strong>建议不要一次性购买太长时间，再稳定的服务也可能有关停的风险</strong>）：</p>
-<h2 id="速鹰666">速鹰666</h2>
-<p>地址：<a href="https://suying91.xyz/auth/register?code=Ewvv" target="_blank">https://suying91.xyz/auth/register?code=Ewvv</a></p>
-<p>最近两年主要在用的一家服务商，线路更加丰富，大部分线路经过中转速度也蛮快的，整体使用下来比较稳定，性价比尚可。
-使用方面是用 Clash 或者 SSR、V2Ray 等通用客户端，有全平台的视频教程，也还算比较方便。</p>
-<h2 id="miaoss">MiaoSS</h2>
-<p>地址：<a href="https://miao.ac/reg?id=9770" target="__blank">https://miao.ac/reg?id=9770</a></p>
-<p>比较老牌的一家服务商了，已经稳定运行了近十年时间。目前免费300M流量，每天签到可领少量流量。可购买付费服务，也比较便宜。地址经常改动，记得注册后按提示保存好链接。</p>
-<h2 id="狗狗加速">狗狗加速</h2>
-<p>地址：<a href="https://invite.dginv.click/#/register?code=QdDCk3er" target="__blank">https://invite.dginv.click/#/register?code=QdDCk3er</a></p>
-<p>持续运营了五年以上的一家服务商，有试用套餐，可以先试试看速度和使用便捷度。
-按月付费的套餐起步价算是目前的服务里面相对便宜的，节点的数量和质量也还不错，教程文档丰富，官方比较活跃，值得尝试。</p>
-
-            
-            
-        </body>
-        </html>
+    <h2 id="miaoss">MiaoSS</h2>
+    <p>
+      地址：<a href="https://miao.ac/reg?id=9770" target="__blank"
+        >https://miao.ac/reg?id=9770</a
+      >
+    </p>
+    <p>
+      比较老牌的一家服务商了，已经稳定运行了至少十年时间。目前免费300M流量，每天签到可领少量流量。可购买付费服务，也比较便宜。地址经常改动，记得注册后按提示保存好链接。
+    </p>
+    <h2 id="狗狗加速">狗狗加速</h2>
+    <p>
+      地址：<a
+        href="https://invite.dginv.click/#/register?code=QdDCk3er"
+        target="__blank"
+        >https://invite.dginv.click/#/register?code=QdDCk3er</a
+      >
+    </p>
+    <p>
+      持续运营了五年以上的一家服务商，有试用套餐，可以先试试看速度和使用便捷度。
+      按月付费的套餐起步价算是目前的服务里面相对便宜的，节点的数量和质量也还不错，教程文档丰富，官方比较活跃，值得尝试。
+    </p>
+  </body>
+</html>
